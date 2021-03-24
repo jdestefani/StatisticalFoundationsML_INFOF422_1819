@@ -1,6 +1,8 @@
-# INFOF422 - Statistical Foundations of Machine Learning
+# INFOF422 - Statistical Foundations of Machine Learning - Academic year 2018-2019
 
 This page contains the material for the hands-on classes of ULB [INFO-F-422](https://uv.ulb.ac.be/course/view.php?id=76801).
+
+**N.B** This repository is outdated. For the most recent version of the materials (Academic year 2020-2021) have a look [here](https://github.com/jdestefani/StatisticalFoundationsML_INFOF422).
 
 ## Getting ready with R notebooks
 
